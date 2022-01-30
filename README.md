@@ -19,7 +19,7 @@
 | Section # | Contents |
 | --- | --- |
 | 1 | [**Observable&SugarAPI**](https://github.com/pastapeter/RxSwift_Study/blob/master/Documents/1%EA%B5%90%EC%8B%9C.md) |
-| 2 | LifeCycle&Stream&Thread&MemoryLeak |
+| 2 | [**LifeCycle&Stream&Thread&MemoryLeak**](https://github.com/pastapeter/RxSwift_Study/blob/master/Documents/2%EA%B5%90%EC%8B%9C.md) |
 | 3 | Subject&RxCocoa |
 | 4 | MVVM&Refactoring&MVVM-C |
 
